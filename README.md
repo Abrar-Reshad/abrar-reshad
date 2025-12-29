@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Undergraduate Student | 🌐 Web App Developer
+🎓 Undergraduate Student | 🌐 Web App and Mobile App Developer
 
 Currently exploring Machine Learning and Deep Learning to expand my skills in intelligent systems and data-driven development.
 
