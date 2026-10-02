@@ -1,9 +1,7 @@
 # 💫 About Me:
-🎓 Undergraduate Student | 🌐 Web App and Mobile App Developer
+🎓 Undergraduate Student  🌐 Web App and Mobile App Developer 🤖 AI Researcher
 
 Currently exploring Machine Learning and Deep Learning to expand my skills in intelligent systems and data-driven development.
-
-💻 I enjoy creating both front-end and back-end projects and learning through hands-on experience.
 
 🚀 Always open to learning new technologies and contributing to open-source.
 
