@@ -1,9 +1,21 @@
-# 💫 About Me:
-🎓 Undergraduate Student  🌐 Web App and Mobile App Developer 🤖 AI Researcher
+# 💫 About Me
 
-Currently exploring Machine Learning and Deep Learning to expand my skills in intelligent systems and data-driven development.
+🎓 Computer Science & Engineering Graduate from North South University  
+🤖 Interested in Artificial Intelligence, Machine Learning & Computer Vision  
+💻 Web & Software Application Developer
 
-🚀 Always open to learning new technologies and contributing to open-source.
+I enjoy exploring new technologies, solving problems, and building practical software solutions. My interests span AI research, intelligent systems, and full-stack application development.
+
+I have experience in multidisciplinary AI research and developing database-driven software applications. I am continuously learning, experimenting with new ideas, and expanding my technical knowledge.
+
+🚀 Always open to collaboration, research opportunities, and open-source contributions.
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/syed-abrar-reshad-5b2b3043a/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2.svg?logo=facebook&logoColor=white)](https://facebook.com/reshad0057)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/abrar_reshad/)
+[![Email](https://img.shields.io/badge/Email-D14836.svg?logo=gmail&logoColor=white)](mailto:reshad0057@gmail.com)
 
 
 ## 🌐 Socials:
